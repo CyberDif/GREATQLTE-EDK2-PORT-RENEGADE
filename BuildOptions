@@ -1,0 +1,4 @@
+gCommandLineDefines: {'FIRMWARE_VER': '2210.1-271-g7e71a23', 'USE_UART': '0', 'FIX_CLANG': '0', 'NO_EXCEPTION_DISPLAY': '0', 'FD_BASE': '0xCE000000', 'FD_SIZE': '0x02000000', 'ARCH': 'AARCH64'}
+BuildOptionPcd: []
+Active Platform: /home/edk2-msm/Platform/Samsung/msm8998/greatqlte.dsc
+Flash Image Definition: /home/edk2-msm/Platform/Qualcomm/msm8998/msm8998.fdf
